@@ -19,7 +19,9 @@ int shellby_unsetenv(char **args, char __attribute__((__unused__)) **front);
  * Return: If an error occurs - -1.
  *	   Otherwise - 0.
  *
- * Description: Prints one variable per line in the
+ * Description: Prints one variable per line in thei
+ *
+ *
  *              format 'variable'='value'.
  */
 
